@@ -1,0 +1,11 @@
+{
+  "httpMethod": "POST",
+  "path": "/accio-chat",
+  "queryStringParameters": {
+    "limit": "10"
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"message\":\"'Hello there! I am looking for a video editor for my business.'\"}"
+}

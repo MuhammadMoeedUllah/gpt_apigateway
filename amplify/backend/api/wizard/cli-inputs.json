@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/accio-chat": {
+      "name": "/accio-chat",
+      "lambdaFunction": "chat",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
